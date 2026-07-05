@@ -1,14 +1,14 @@
 # Product Requirements Document (PRD) & Financial Proposal
 **Project:** Professional Web Portal & Interactive Water Engineering App  
-**Client:** Elite Gate Water Enterprises  
-**Lead Engineer:** Samson Alacha  
+**Client:** Elite Gate Water Solutions Enterprises  
+**Lead Engineer:** Ugbabe Godwin  
 **Date:** July 5, 2026  
 **Status:** Phase 1 Completed (Production-Ready Preview)
 
 ---
 
 ## 1. Executive Summary
-Elite Gate Water Enterprises is a premier water engineering firm specializing in geophysical surveys, deep borehole drilling, solar-powered water stanchions, and industrial-grade water filtration systems.
+Elite Gate Water Solutions Enterprises is a premier water engineering firm specializing in geophysical surveys, deep borehole drilling, solar-powered water stanchions, and industrial-grade water filtration systems.
 
 This document serves as the official **Product Requirements Document (PRD)** and **Financial Proposal** for the design, development, and launch of the Elite Gate high-conversion digital portal. The site synthesizes brand authority, interactive diagnostic tools, and seamless booking workflows to convert technical prospects into paying clients.
 
@@ -72,15 +72,14 @@ Below is the structured agency-grade breakdown for building, testing, and deploy
 ---
 
 ## 5. Hosting & Maintenance Estimates (Annual Recurring)
-*   **Custom Domain Name (`.com` or `.com.ng`)**: ₦12,000 / year
+*   **Custom Domain Name (`.com` or `.com.ng`)**: ₦15,000 / year
 *   **High-Speed Managed Cloud Hosting (SSL Secured)**: ₦60,000 / year
 *   **Technical Support & Content Updates (Optional)**: ₦180,000 / year
 
 ---
 
 ### Authorized Acceptance
-This PRD and proposal represent a fully completed, ready-to-launch website preview. By agreeing to these specifications, Elite Gate Water Enterprises secures an industry-leading web portal designed to maximize client conversion and market dominance across Nigeria's water engineering sector.
+This PRD and proposal represent a fully completed, ready-to-launch website preview. By agreeing to these specifications, Elite Gate Water Solutions Enterprises secures an industry-leading web portal designed to maximize client conversion and market dominance across Nigeria's water engineering sector.
 
-**Prepared by:** AI Studio Build Agent  
+**Prepared by:** CircuitSoul  Ltd 
 **For:** Elite Gate Water Enterprises  
-*(File generated inside `/PRD.md` for immediate download)*
